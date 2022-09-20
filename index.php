@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 <head>
     <title>Tugas Besar</title>
     <meta charset="utf-8">
